@@ -1,5 +1,5 @@
-# Resturant Review Project
-
+# Resturant Review Site Using Angular
+This is one of My online course project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.6.
 
